@@ -1,0 +1,113 @@
+body {
+  text-align: center;
+
+  font-family: "Open Sans", sans-serif;
+
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bolder;
+
+}
+
+h2 {
+  font-weight: normal;
+}
+
+p {
+  font-weight: lighter;
+}
+
+#topContainer {
+  background-color: #e9efc0;
+  color: #4e944f;
+  padding: 3% 15%;
+}
+
+.mainHeading {
+  margin-top: 5rem;
+font-size: 8rem;
+text-align: left;
+}
+
+.subHeadingMain {
+  font-size: 3rem;
+  text-align: left;
+}
+
+.planButton {
+  color: #4e944f;
+  font-size: 3rem;
+  text-align: left;
+  margin-right: 70%;
+  margin-top: 4rem;
+}
+
+.formulaHeading {
+  font-size: 5rem;
+  margin: 5rem auto;
+}
+
+.formulaPros {
+  font-weight: 600;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 4rem 0;
+
+}
+.babyBottle{
+  width: 25%;
+}
+
+#ourFormula {
+
+}
+.proIcons {
+  font-size: 4rem;
+  color: #4e944f;
+  float: left;
+  margin-right: 2.5rem;
+  text-align: left;
+
+}
+
+.proRow {
+  padding: 6%;
+  text-align: center;
+}
+
+#ourPlans {
+  background-color: #4e944f;
+  color: white;
+  padding: 3% 15%;
+}
+
+.planHeading {
+  font-size: 8.5rem;
+
+}
+
+.priceCards {
+  background-color: white;
+  color: black;
+  padding: 3%;
+  border-radius: 5%;
+
+  margin: 4rem 2rem;
+}
+
+#testimonials {
+  padding: 3% 14%;
+  color: #4e944f;
+  background-color: white;
+}
+
+.testHeading {
+  font-size: 5rem;
+
+}
+
+.testSubHeading{
+  font-size: 3rem;
+}
