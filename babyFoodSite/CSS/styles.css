@@ -1,3 +1,4 @@
+/* global styles */
 body {
   text-align: center;
 
@@ -19,6 +20,7 @@ p {
   font-weight: lighter;
 }
 
+/* top container */
 #topContainer {
   background-color: #e9efc0;
   color: #4e944f;
@@ -44,11 +46,19 @@ text-align: left;
   margin-top: 4rem;
 }
 
+
+/* our formula section */
+
 .formulaHeading {
   font-size: 5rem;
   margin: 5rem auto;
 }
 
+/* left half of screen */
+.babyBottle{
+  width: 25%;
+}
+/* right half of screen */
 .formulaPros {
   font-weight: 600;
   font-size: 2.5rem;
@@ -56,13 +66,7 @@ text-align: left;
   margin: 4rem 0;
 
 }
-.babyBottle{
-  width: 25%;
-}
 
-#ourFormula {
-
-}
 .proIcons {
   font-size: 4rem;
   color: #4e944f;
@@ -77,6 +81,7 @@ text-align: left;
   text-align: center;
 }
 
+/* price plan section */
 #ourPlans {
   background-color: #4e944f;
   color: white;
@@ -97,6 +102,7 @@ text-align: left;
   margin: 4rem 2rem;
 }
 
+/* testimonial section */
 #testimonials {
   padding: 3% 14%;
   color: #4e944f;
